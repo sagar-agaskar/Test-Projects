@@ -21,7 +21,7 @@
     "description": { "default": "spfx-no-js description" },
     "officeFabricIconFontName": "Page",
     "properties": {
-      "description": "spfx-no-js"
+      "description": "spfx-no-js first"
     }
   }]
 }
